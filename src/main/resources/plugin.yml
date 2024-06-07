@@ -1,0 +1,6 @@
+name: Gems
+version: '${version}'
+main: com.developedmade.gems.Gems
+api-version: '1.20'
+authors: [Yirf]
+softdepend: [PlaceholderAPI]
